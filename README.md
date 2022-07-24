@@ -17,6 +17,8 @@ Durante o desenvolvimento deste projeto, foquei em alguns pontos:
 - JDK 17
 - IntelliJ IDEA
 - Maven
+- JUnit
+- Mockito
 
 
 ## Rodando o projeto
